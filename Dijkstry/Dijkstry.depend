@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1495615896 source:e:\studia\aiz\dijkstry — kopia\main.cpp
+	<iostream>
+	<cstdlib>
+	<math.h>
+	<time.h>
+

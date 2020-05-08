@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1495016005 source:h:\aiz\czas_sort\main.cpp
+	<iostream>
+	<cstdlib>
+	<math.h>
+	<time.h>
+
+1495570748 source:e:\studia\aiz\czas_sort\main.cpp
+	<iostream>
+	<cstdlib>
+	<math.h>
+	<time.h>
+
